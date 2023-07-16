@@ -15,9 +15,3 @@ Car Game::car1(ECarType type, EColor color)
 	Car c(type, color);
 	return c;
 }
-
-Car Game::car2(ECarType type, EColor color)
-{
-	Car c(type, color);
-	return c;
-}
