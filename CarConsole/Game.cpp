@@ -1,10 +1,9 @@
 #include "Game.h"
 #include <iostream>
-
-void Game::StartGame()
+void StartGame()
 {
 	int op = -1;
-	std::cout << "The game has started!\n 1-Deploy a car\n 2-Enter car's proprieties\n 3-Delete car\n";
+	std::cout << "The game has started!\n 1-Deploy a car\n 2-Enter car's proprieties\n 3-Delete CAR\n";
 	while (op)
 	{
 		switch (op)
@@ -24,13 +23,12 @@ void Game::StartGame()
 	}
 }
 
-Car Game::car1(ECarType type, EColor color) 
+void Game::StartGame()
 {
-	Car c(type, color);
-	return c;
+	std::cout << "The game has started!\n";
 }
 
-Car Game::car2(ECarType type, EColor color)
+Car Game::car1(ECarType type, EColor color) 
 {
 	Car c(type, color);
 	return c;
