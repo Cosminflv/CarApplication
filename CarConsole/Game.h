@@ -6,5 +6,6 @@ public:
 	void StartGame();
 protected:
 	Car car1(ECarType type, EColor color);
+	Car car2(ECarType type, EColor color);
 };
 
