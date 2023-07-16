@@ -6,7 +6,7 @@ enum class ECarType
 	Sedan,
 	Wagon,
 	Van,
-	Hatchback,
+	Micro,
 	Truck
 };
 
