@@ -1,2 +1,6 @@
-﻿  Sedan.cpp
-C:\Users\Asus\Desktop\CarApplication\ProjectLib\Sedan.cpp(12): error C4716: 'Sedan::Accelerate': must return a value
+﻿  Car.cpp
+  ICar.cpp
+  Sedan.cpp
+  Generating Code...
+C:\Users\Asus\Desktop\CarApplication\ProjectLib\Sedan.cpp(15): warning C4715: 'Sedan::Accelerate': not all control paths return a value
+  ProjectLib.vcxproj -> C:\Users\Asus\Desktop\CarApplication\x64\Debug\ProjectLib.lib

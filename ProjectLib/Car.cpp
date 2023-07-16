@@ -1,6 +1,6 @@
 #include "Car.h"
 
-Car::Car(ECarType newType, EColor newColor) : m_type(newType), m_color(newColor)
+Car::Car(ECarType newType, EColor newColor) : m_type(newType), m_color(newColor), m_speed(1)
 {
 
 }

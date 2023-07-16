@@ -1,2 +1,1 @@
-﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\Asus\Desktop\CarApplication\x64\Debug\CarConsole.exe : fatal error LNK1120: 1 unresolved externals
+﻿  CarConsole.vcxproj -> C:\Users\Asus\Desktop\CarApplication\x64\Debug\CarConsole.exe
