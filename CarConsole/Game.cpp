@@ -2,7 +2,6 @@
 #include <iostream>
 void StartGame()
 {
-<<<<<<< HEAD
 	int op = -1;
 	std::cout << "The game has started!\n 1-Deploy a car\n 2-Enter car's proprieties\n 3-Delete CAR\n";
 	while (op)
@@ -22,9 +21,7 @@ void StartGame()
 
 		}
 	}
-=======
 	std::cout << "The game has started!\n";
->>>>>>> origin/Micro_car_path
 }
 
 void Game::StartGame()
