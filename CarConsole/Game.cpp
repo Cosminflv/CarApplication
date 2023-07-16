@@ -14,7 +14,7 @@ void Game::StartGame()
 				//GenerateCarVector();
 				break;
 		case 2:
-			std::cout << "Select proriety:";
+			std::cout << "Select propriety:";
 			break;
 		case 3:
 			//DeleteCar();
